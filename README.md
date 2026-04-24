@@ -96,7 +96,7 @@ The example domain is an **e-commerce shoe retailer**. Producers generate AVRO-s
 
 ## Prerequisites
 
-The training VM comes pre-configured with all required tools:
+The training Ubuntu 22.04 VM comes pre-configured with all required tools:
 
 - `kind`, `kubectl`, `helm`
 - `confluent` CLI
