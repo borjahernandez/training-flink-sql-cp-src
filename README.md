@@ -20,7 +20,7 @@ confluent-flink/
 Provisions the entire stack: Kind cluster, CFK operator, Confluent Platform (Kafka, Schema Registry, Control Center), cert-manager, Flink Kubernetes Operator, CMF, S3proxy, and Flink resources.
 
 ```bash
-cd ~/confluent-flink/scripts
+cd scripts
 bash setup-all.sh
 ```
 
